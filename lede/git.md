@@ -6,3 +6,6 @@
 
 3. 放弃修改：git clean -df
 
+* 报错：Invalid revision range
+
+  * 在仓库中搜错误信息后边的字符串，然后将之修改为自己commit的任意一个版本号
